@@ -1,0 +1,11 @@
+.container {
+  border: 1px solid blue;
+  width: 100%;
+  margin: auto;
+  height: 70vh;
+  text-align: center;
+  background-color: aliceblue;
+}
+button {
+  padding: 5px 20px;
+}
